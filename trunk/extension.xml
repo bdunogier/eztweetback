@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<software>
+    <metadata>
+        <name>eZ Tweetback</name>
+        <version>1.0-alpha</version>
+        <copyright>Copyright 2010 Bertrand Dunogier</copyright>
+        <license>GNU General Public License v2.0</license>
+        <info_url>http://github.com/calthas/eztweetback</info_url>
+    </metadata>
+
+    <dependencies />
+</software>
