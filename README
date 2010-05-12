@@ -1,0 +1,11 @@
+============
+eZ Tweetback
+============
+
+eztweetback is an eZ Publish extension that implements tweetbacks for ezpublish
+comments.
+
+A tweetback is a twitter message that references a given URL.
+
+This extension aims at automatically adding tweetbacks of a piece of content
+that are found on twitter.
